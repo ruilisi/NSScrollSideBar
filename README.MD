@@ -27,7 +27,7 @@ buttonWidth: CGFloat = 30.0
 buttonHeight: CGFloat = 30.0
  ```
 
-<img src="https://res.paiyou.org/NSScorllSidebar1.png" alt="" width="400"/>
+![alt text](https://raw.githubusercontent.com/paiyou-network/NSScrollSideBar/master/NSScrollSideBarDemo/screenshot/NSScorllSidebar1.png)
 
 
 4. You also need to define a NSButton by yourself to open the sidebar
@@ -44,11 +44,11 @@ buttonHeight: CGFloat = 30.0
 ### Examples
 * Settings for outer NSBox in this image:
 
-<img src="https://res.paiyou.org/NSScorllSidebar4.png" alt="" width="400"/>
+![alt text](https://raw.githubusercontent.com/paiyou-network/NSScrollSideBar/master/NSScrollSideBarDemo/screenshot/NSScorllSidebar4.png)
 
-<img src="https://res.paiyou.org/NSScorllSidebar2.png" alt="" width="400"/>
+![alt text](https://raw.githubusercontent.com/paiyou-network/NSScrollSideBar/master/NSScrollSideBarDemo/screenshot/NSScorllSidebar2.png)
 
-<img src="https://res.paiyou.org/NSScorllSidebar3.png" alt="" width="400"/>
+![alt text](https://raw.githubusercontent.com/paiyou-network/NSScrollSideBar/master/NSScrollSideBarDemo/screenshot/NSScorllSidebar3.png)
 
 ### License
 The MIT License (MIT)
